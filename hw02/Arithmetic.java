@@ -37,7 +37,7 @@ public class Arithmetic {
     //Print out cost of each item
     System.out.println("Total cost of pants is " +totalCostofPants+ " dollars"); 
     System.out.println("Total cost of sweatshirts is "+totalCostofSweatshirts+" dollars");
-    System.out.println("Total cost of sweatshirts is "+totalCostofBelts+" dollars");
+    System.out.println("Total cost of belts is "+totalCostofBelts+" dollars");
     //Print out sales tax on each item
     System.out.println("Total sales tax on pants is "+pantsSalesTax+" dollars");
     System.out.println("Total sales tax on sweatshirts is "+sweatshirtsSalesTax+" dollars");

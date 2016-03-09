@@ -43,13 +43,16 @@ public class Fibonacci {
             n = myScanner.nextInt();
             }
             
-            
-     System.out.print("The fibonacci sequence is: " +a1+ ", " +a2+ ", "); //Prints out the values of 'a' and 'b'
-        int counter = 2; //Declares the integer 'counter'
+        //print out sequence     
+        System.out.print("The fibonacci sequence is: " +a1+ ", " +a2+ ", "); 
+        //there are already two give integers, a1 and a2
+        int counter = 2; 
+        //declare a3
         int a3 = 0;
         
         while (counter<n) 
             {
+            //calculates remaining numbers in sequence
             a3 = a1 + a2;
             System.out.println(a3 + ", ");
             a1 = a2;

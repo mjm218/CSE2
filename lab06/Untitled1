@@ -1,0 +1,26 @@
+//Michael McAteer
+//lab 06
+//CSE 02
+
+//import scanner
+import java.util.Scanner
+
+//import class
+public class TwistGenerator
+    //main method
+    public static void main (String[] args) {
+    //declare scanner
+    Scanner myScanner = new Scanner(System.in);
+    //user inputs twist length
+    System.out.printlm("insert length as a positive integer");
+    //declare length
+    int length = myScanner.nextInt();
+        //length can't be negative or a non-integer
+        while (length<0||length!=int);
+        {
+        System.out.println("Your length must be a positive integer");
+        break;
+        int myFactor=3
+        if length%myfactor==0
+        sys
+    
